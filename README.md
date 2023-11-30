@@ -1,5 +1,3 @@
-<img src="./assets/go.png" alt="golang" style="width:60px"/><span style="color:blue; font-family: sans-serif; font: italic">pportunities</span>
-
 ## Tecnologias utilizadas:
 
 * Golang
